@@ -35,3 +35,6 @@ temp/
 # Build outputs
 dist/
 build/
+
+# Personal
+README-personal.md
