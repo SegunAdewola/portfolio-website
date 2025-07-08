@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://segunadewola.github.io/sitemap.xml
+Sitemap: https://segunadewola.github.io/portfolio-website/sitemap.xml
