@@ -1,0 +1,24 @@
+# robots.txt for segunadewola.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://segunadewola.com/sitemap.xml
+
+# Disallow common admin/private paths (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.git/
+
+# Allow common crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Crawl delay (optional - be nice to servers)
+Crawl-delay: 1
