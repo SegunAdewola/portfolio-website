@@ -1,0 +1,25 @@
+{
+  "name": "Segun Adewola - Portfolio",
+  "short_name": "Segun Portfolio",
+  "description": "Professional portfolio of Segun Adewola - Software Engineer & Data Scientist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["portfolio", "professional", "developer"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
