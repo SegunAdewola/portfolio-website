@@ -150,7 +150,7 @@ const PORTFOLIO_DATA = {
             ],
             links: [
                 { type: "github", url: "https://github.com/SegunAdewola/Remit-Track", label: "GitHub" },
-                { type: "demo", url: "#", label: "Live Demo" }
+                { type: "demo", url: "https://segunadewola.github.io/remit-track/", label: "Live Demo" }
             ]
         },
         {
