@@ -149,8 +149,8 @@ const PORTFOLIO_DATA = {
                 "Empowering African diaspora users and small businesses"
             ],
             links: [
-                { type: "github", url: "https://github.com/SegunAdewola/Remit-Track", label: "GitHub" },
-                { type: "demo", url: "https://segunadewola.github.io/remit-track/", label: "Live Demo" }
+                { type: "github", url: "https://github.com/SegunAdewola/RemitTrack", label: "GitHub" },
+                // { type: "demo", url: "https://segunadewola.github.io/remit-track/", label: "Live Demo" }
             ]
         },
         {
